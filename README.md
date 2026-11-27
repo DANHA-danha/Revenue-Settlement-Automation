@@ -69,7 +69,7 @@
 
 ## 화면
 
-![dashboard](docs/screenshot.png)
+<img src="img/screenshot.png" width="100%" />
 
 
 ## 기술
